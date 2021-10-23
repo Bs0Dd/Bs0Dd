@@ -2,9 +2,24 @@
 
 I'm **Bs0Dd** - expert in **useless** software making, hah.
 
-I'm writing on Lua, C/C++ (sometimes with Qt) and Intel 8080A assembly (very rarely).  
-Early coded on Python with PyQt.
+I'm writing on:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
+</p>
 
+Frameworks:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/qt.png" alt="Qt" width="100" height="50">
+</p>
+
+Used to write in:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
+</p>
+
+<br><br>
 There are some useless (and maybe some useful) projects:
 
 * [**Coverett**](https://github.com/Bs0Dd/Coverett) - C library for interacting with HLAPI devices of the OpenComputers II mod.

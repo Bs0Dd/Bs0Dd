@@ -32,6 +32,8 @@ There are some useless (and maybe some useful) projects:
 
 * [**HELLSMI**](https://github.com/Bs0Dd/HELLSMI) - esoteric and useless language, yeah.
 
+* [**magma-8080**](https://github.com/Bs0Dd/magma-8080) - GOST 28147-89 "Magma" algorithm implementation for Intel 8080A processor.
+
 * [**brainfuck-86rk**](https://github.com/Bs0Dd/brainfuck-86rk) - Brainfuck interpreter for Radio-86RK soviet computer. Written on Intel 8080A assembly))0)0))).
 
 * [**1000-7_rk86**](https://github.com/Bs0Dd/1000-7_rk86) - Maybe you know)))0)000))0.

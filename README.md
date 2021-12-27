@@ -2,6 +2,9 @@
 
 I'm **Bs0Dd** - expert in **useless** software making, hah.
 
+* **Ubuntu** user: 27.05.2019 - 25.12.2021
+* **Kubuntu** user: 25.12.2021 - now
+
 I'm writing on:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100" height="50">

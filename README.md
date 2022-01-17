@@ -49,3 +49,5 @@ I contributed to:
 * [**MineOS**](https://github.com/IgorTimofeev/MineOS) - Picture View, Calendar, some additional functional for Picture Edit, Image and Screen libraries.
 
 * [**CCOS-disk-utils**](https://github.com/BOOtak/CCOS-disk-utils) - some functions and bugfixes for library.
+
+* [**OpenComputers II**](https://github.com/fnuecke/oc2) - russian language, redstone demo script, some small config fixes.

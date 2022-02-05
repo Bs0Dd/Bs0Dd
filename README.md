@@ -5,21 +5,17 @@ I'm **Bs0Dd** - expert in **useless** software making, hah.
 * **Ubuntu** user: 27.05.2019 - 25.12.2021
 * **Kubuntu** user: 25.12.2021 - now
 
-I'm writing on:
+I write / wrote on:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
 </p>
 
 Frameworks:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/qt.png" alt="Qt" width="100" height="50">
-</p>
-
-Used to write in:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
 </p>
 
 <br><br>

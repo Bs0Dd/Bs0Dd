@@ -41,7 +41,7 @@ There are some useless (and maybe some useful) projects:
 
 * [**1000-7_rk86**](https://github.com/Bs0Dd/1000-7_rk86) - Maybe you know)))0)000))0.
 
-* [**KunAPIPy**](https://github.com/Bs0Dd/KunAPIPy) - simple wrapper for Kundelik.kz service. It's no longer being developed for the reason of stopping working with Python.
+* [**KunAPIPy**](https://github.com/Bs0Dd/KunAPIPy) - simple wrapper for Kundelik.kz service.
 
 
 I contributed to:

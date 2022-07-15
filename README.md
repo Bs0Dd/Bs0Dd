@@ -29,6 +29,8 @@ There are some useless (and maybe some useful) projects:
 
 * [**GRIDISKCOM**](https://github.com/Bs0Dd/GRiDISKCOM) - Simple two-panel file manager for GRiD OS disk images.
 
+* [**permcot**](https://github.com/Bs0Dd/permcot) - UNIX Permissions Converter Tool. 
+
 * [**HELLSMI**](https://github.com/Bs0Dd/HELLSMI) - esoteric and useless language, yeah.
 
 * [**magma-8080**](https://github.com/Bs0Dd/magma-8080) - GOST 28147-89 "Magma" algorithm implementation for Intel 8080A processor.

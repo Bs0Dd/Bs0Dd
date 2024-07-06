@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I'm **Bs0Dd** - expert in **useless** software making, hah.
+I'm **Bs0Dd** - an expert in **useless** software making, hah.
 
 * **Ubuntu** user: 27.05.2019 - 25.12.2021
 * **Kubuntu** user: 25.12.2021 - now
@@ -11,6 +11,7 @@ I write / wrote on:
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/js.png" alt="JavaScript" width="100" height="50">
 </p>
 
 Frameworks:
@@ -26,6 +27,10 @@ There are some useless (and maybe some useful) projects:
 * [**OpenCompSoft**](https://github.com/Bs0Dd/OpenCompSoft) - Lua software for OpenComputers mod.
 
 * [**OpenCompSoft2**](https://github.com/Bs0Dd/OpenCompSoft2) - some software for OpenComputers2.
+
+* [**JS85EMU**](https://github.com/Bs0Dd/JS85EMU) - JavaScript Elektronika MK85 EMUlator.
+ 
+* [**JS87EMU**](https://github.com/Bs0Dd/JS87EMU) - JavaScript Elektronika MK87 EMUlator.
 
 * [**GRIDISKCOM**](https://github.com/Bs0Dd/GRiDISKCOM) - Simple two-panel file manager for GRiD OS disk images.
 

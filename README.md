@@ -29,7 +29,9 @@ There are some useless (and maybe some useful) projects:
 * [**OpenCompSoft2**](https://github.com/Bs0Dd/OpenCompSoft2) - some software for OpenComputers2.
 
 * [**JS85EMU**](https://github.com/Bs0Dd/JS85EMU) - JavaScript Elektronika MK85 EMUlator.
- 
+
+* [**JS85cEMU**](https://github.com/Bs0Dd/JS85cEMU) - JavaScript Elektronika MK85C EMUlator.
+
 * [**JS87EMU**](https://github.com/Bs0Dd/JS87EMU) - JavaScript Elektronika MK87 EMUlator.
 
 * [**GRIDISKCOM**](https://github.com/Bs0Dd/GRiDISKCOM) - Simple two-panel file manager for GRiD OS disk images.

@@ -8,6 +8,7 @@ I'm **Bs0Dd** - an expert in **useless** software making, hah.
 I write / wrote on:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm11.png" alt="PDP-11 Assembly" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
@@ -33,6 +34,8 @@ There are some useless (and maybe some useful) projects:
 * [**JS85cEMU**](https://github.com/Bs0Dd/JS85cEMU) - JavaScript Elektronika MK85C EMUlator.
 
 * [**JS87EMU**](https://github.com/Bs0Dd/JS87EMU) - JavaScript Elektronika MK87 EMUlator.
+
+* [**MK90-projs**](https://github.com/Bs0Dd/MK90-projs) - Projects for Elektronika MK 90.
 
 * [**GRIDISKCOM**](https://github.com/Bs0Dd/GRiDISKCOM) - Simple two-panel file manager for GRiD OS disk images.
 

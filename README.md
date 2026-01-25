@@ -13,11 +13,13 @@ I write / wrote on:
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/js.png" alt="JavaScript" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/pascal.png" alt="Pascal" width="100" height="50">
 </p>
 
 Frameworks:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/qt.png" alt="Qt" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/delphi.png" alt="Delphi" width="100" height="50">
 </p>
 
 <br><br>
@@ -35,7 +37,15 @@ There are some useless (and maybe some useful) projects:
 
 * [**JS87EMU**](https://github.com/Bs0Dd/JS87EMU) - JavaScript Elektronika MK87 EMUlator.
 
+* [**JS87EMU**](https://github.com/Bs0Dd/JS90EMU) - JavaScript Elektronika MK90 EMUlator.
+
 * [**MK90-projs**](https://github.com/Bs0Dd/MK90-projs) - Projects for Elektronika MK 90.
+
+* [**MK90-info**](https://github.com/Bs0Dd/MK90-info) - Information about Elektronika MK 90.
+
+* [**TriStrem**](https://github.com/Bs0Dd/TriStrem) - "Angstrem-3" Encryption System from Elektronika MK85C.
+
+* [**DKLKM85C**](https://github.com/Bs0Dd/DKLKM85C) - Keys generator for Elektronika MK85C.
 
 * [**GRIDISKCOM**](https://github.com/Bs0Dd/GRiDISKCOM) - Simple two-panel file manager for GRiD OS disk images.
 
@@ -54,7 +64,7 @@ There are some useless (and maybe some useful) projects:
 
 I contributed to:
 
-* [**MineOS**](https://github.com/IgorTimofeev/MineOS) - Picture View, Calendar, some additional functional for Picture Edit, Image and Screen libraries.
+* [**MineOS**](https://github.com/IgorTimofeev/MineOS) - Picture View, Calendar, some additional functionality for Picture Edit, Image and Screen libraries.
 
 * [**CCOS-disk-utils**](https://github.com/BOOtak/CCOS-disk-utils) - some functions and bugfixes for library.
 

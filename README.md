@@ -7,19 +7,19 @@ I'm **Bs0Dd** - an expert in **useless** software making, hah.
 
 I write / wrote on:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm11.png" alt="PDP-11 Assembly" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/js.png" alt="JavaScript" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/pascal.png" alt="Pascal" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm.png" alt="i8080 Assembly" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/asm11.png" alt="PDP-11 Assembly" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/ccpp.png" alt="C/C++" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/lua.png" alt="Lua" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/python.png" alt="Python" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/js.png" alt="JavaScript" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/pascal.png" alt="Pascal" width="100">
 </p>
 
 Frameworks:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/qt.png" alt="Qt" width="100" height="50">
-  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/delphi.png" alt="Delphi" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/qt.png" alt="Qt" width="100">
+  <img src="https://raw.githubusercontent.com/Bs0Dd/Bs0Dd/main/badges/delphi.png" alt="Delphi" width="100">
 </p>
 
 <br><br>
